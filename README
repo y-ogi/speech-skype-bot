@@ -1,5 +1,7 @@
+おしゃべりSkype BOT
+
 Skypeで受信したメッセージをしゃべらすBotです。
-※Mac限定
+※Mac限定、Skype4Pyが必要。
 
 say "ほげほげ"
 
